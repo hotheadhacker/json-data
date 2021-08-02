@@ -1,7 +1,29 @@
 [{
     "songs":[
-        
         {"id": 1,
+        "name": "Can we Kiss Forever",
+        "artist": "Kina",
+        "url": "https://archive.org/download/kinacanwekissforever/Kina%20-%20Can%20We%20Kiss%20Forever.mp3"
+        
+        },
+        {"id": 2,
+        "name": "Only You",
+        "artist": "Seleena Gomez",
+        "url": "http://f.marvarid.net/mp3/New_mp3/Selena_Gomez_-_Only_You.mp3"
+        
+        },
+        {"id": 3,
+        "name": "Therefor I am",
+        "artist": "Bille Elish",
+        "url": "https://w1.musify.club/track/dl/15515324/billie-eilish-therefore-i-am.mp3"
+        
+        },
+        {"id": 4,
+        "name": "Falling",
+        "artist": "Trevor Danie",
+        "url": "https://w1.musify.club/track/dl/13080731/trevor-daniel-falling.mp3"
+        },
+        {"id": 5,
         "name": "In The End",
         "artist": "Linkin Park - Remix",
         "url": "https://ccc.ytmp3s.me/download/e23dbe59f3e841c872b640b25aeb219a?f=mp3quack.biz"
