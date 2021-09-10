@@ -1,1 +1,1 @@
-cardano, polkadot, thorchain, chainlink, coin98, 1inch, pancakeswap-token, mobox, gamee, tron, moonriver, labs-group, chain-guardians, sun-token, btc
+cardano, polkadot, thorchain, chainlink, coin98, xyo-network, 1inch, pancakeswap-token, mobox, gamee, tron, moonriver, labs-group, chain-guardians, sun-token, btc
