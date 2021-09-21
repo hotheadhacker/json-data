@@ -2,15 +2,15 @@
    "announcements": [
 
       {
-         'txt': 'This app has been released'
+         "txt": "This app has been released"
       },
 
       {
-         'txt': 'For any feedback mail at me@isalman.xyz'
+         "txt": "For any feedback mail at me@isalman.xyz"
          
       },
       {
-         'txt': 'More updates to this app coming soon! feedbacks pritorized first'
+         "txt": "More updates to this app coming soon! feedbacks pritorized first"
       }
 
    ]
