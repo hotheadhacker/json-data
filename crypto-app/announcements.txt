@@ -1,1 +1,1 @@
-["This app has been released","For any feedback mail at me@isalman.xyz","More updates to this app coming soon! feedbacks pritorized first"]
+["This app has been released", "For any feedback mail at me@isalman.xyz","More updates to this app coming soon! feedbacks pritorized first"]
