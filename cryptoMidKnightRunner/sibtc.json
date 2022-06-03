@@ -1,0 +1,7 @@
+{
+  "status": true,
+  "runEngine": true,
+  "data": [
+  "bitcoin", "waves", "tron", "ftx-token"
+  ]
+}
