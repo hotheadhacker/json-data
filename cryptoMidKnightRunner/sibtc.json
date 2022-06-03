@@ -1,6 +1,6 @@
 {
   "status": true,
-  "runEngine": true,
+  "runEngine": false,
   "data": [
   "bitcoin", "waves", "tron", "ftx-token"
   ]
