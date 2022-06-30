@@ -1,6 +1,6 @@
 {
   "status": true,
-  "runEngine": false,
+  "runEngine": true,
   "data": [
   "bitcoin", "waves", "tron", "ftx-token", "terra-luna", "terra-luna-2", "stepn",
    "project-galaxy"
