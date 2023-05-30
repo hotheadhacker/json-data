@@ -1,4 +1,4 @@
 {
-    "reboot": true,
+    "reboot": false,
     "force-mount-ssd": false
 }
