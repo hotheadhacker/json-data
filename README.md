@@ -6,3 +6,7 @@ Or
 
 
 !(https://api.coingecko.com/api/v3/coins/list)
+
+# More tools incoming
+- bunch of masto clients
+- and more
