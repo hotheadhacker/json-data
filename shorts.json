@@ -1,0 +1,45 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": 1,
+            "name": "Dr Israr Videos",
+            "username": "dr.israr.123",
+            "source": "instagram",
+            "sourceUrl": "https://www.instagram.com/p/CGQ1J9Qj6Zw/",
+            "assetUrl": "https://islamic-shorts.s3.eu-north-1.amazonaws.com/Video-456.mp4"
+        },
+        {
+            "id": 2,
+            "name": "Islamic Short Videos",
+            "username": "islamicshorts123",
+            "source": "instagram",
+            "sourceUrl": "https://www.instagram.com/p/CGQ1J9Qj6Zw/",
+            "assetUrl": "https://islamic-shorts.s3.eu-north-1.amazonaws.com/Video-512.mp4"
+        },
+        {
+            "id": 3,
+            "name": "Dr Israr Videos",
+            "username": "dr.israr.123",
+            "source": "instagram",
+            "sourceUrl": "https://www.instagram.com/p/CGQ1J9Qj6Zw/",
+            "assetUrl": "https://islamic-shorts.s3.eu-north-1.amazonaws.com/Video-622.mp4"
+        },
+        {
+            "id": 4,
+            "name": "Dr Israr Videos",
+            "username": "dr.israr.123",
+            "source": "instagram",
+            "sourceUrl": "https://www.instagram.com/p/CGQ1J9Qj6Zw/",
+            "assetUrl": "https://islamic-shorts.s3.eu-north-1.amazonaws.com/Video-989.mp4"
+        },
+        {
+            "id": 5,
+            "name": "Dr Israr Videos",
+            "username": "dr.israr.123",
+            "source": "instagram",
+            "sourceUrl": "https://www.instagram.com/p/CGQ1J9Qj6Zw/",
+            "assetUrl": "https://islamic-shorts.s3.eu-north-1.amazonaws.com/Video-456.mp4"
+        }
+    ]
+}
