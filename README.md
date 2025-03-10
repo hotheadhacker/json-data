@@ -1,12 +1,2 @@
-# json-data
-its personal but not private :)
-Directly get coins updated !(https://api.coingecko.com/api/v3/coins)
-
-Or
-
-
-!(https://api.coingecko.com/api/v3/coins/list)
-
-# More tools incoming
-- bunch of masto clients
-- and more
+## GitAds Sponsored
+[![Sponsored by HotHeadHacker](https://gitads.dev/ad-serve/hotheadhacker?repo=json-data)](https://gitads.dev/ad-track/hotheadhacker?repo=json-data)
