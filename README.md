@@ -1,5 +1,5 @@
 ## GitAds Sponsored
-[![Sponsored by GitAds](https://gitads.dev/ad-serve/hotheadhacker?repo=json-data)](https://gitads.dev/ad-track/hotheadhacker?repo=json-data)
+[![Sponsored by GitAds](https://staging.gitads.dev/ad-serve/hotheadhacker?repo=json-data)](https://gitads.dev/ad-track/hotheadhacker?repo=json-data)
 <!-- GitAds-Verify: BR9UFA5EL8SLFZBT1JQEDK5IXLDYJ9GC -->
 ## About this project
 This is my personal static JSON files eith used as API endpoints to my public apps or for differnt reasons.
