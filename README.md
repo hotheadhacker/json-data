@@ -8,5 +8,5 @@ This is my personal static JSON files with used as API endpoints to my public ap
 
 If you are here, you can browse for fun cuz it won't add value to your time.
 
-<a href="https://example.com" target="_blank">Visit my site</a>
+[Check this out](https://example.com) _(opens in a new tab)_
 
