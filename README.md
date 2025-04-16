@@ -7,3 +7,6 @@
 This is my personal static JSON files with used as API endpoints to my public apps or for differnt reasons.
 
 If you are here, you can browse for fun cuz it won't add value to your time.
+
+<a href="https://example.com" target="_blank">Visit my site</a>
+
