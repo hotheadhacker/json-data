@@ -1,5 +1,9 @@
 ## GitAds Sponsored
+### ST
 [![Sponsored by GitAds](https://staging.gitads.dev/v1/ad-serve?source=hotheadhacker/json-data@github)](https://staging.gitads.dev/v1/ad-track?source=hotheadhacker/json-data@github)
+
+### Non-ST
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=hotheadhacker/json-data@github)](https://gitads.dev/v1/ad-track?source=hotheadhacker/json-data@github)
 
 
 <!-- GitAds-Verify: P9ANXMGBLF9BL2B29UN4EUVL9I6BX9M7 -->
